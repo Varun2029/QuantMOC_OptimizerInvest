@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Description
+## Description
 
 **Quant Invest** is a quantitative investment platform that combines hedge-fund-style analytics with multi-market support across India, USA, and UK. It uses regime detection (HMM), factor-based optimization, and Monte Carlo risk analysis to generate buy/sell signals and optimal portfolio weights.
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Install
@@ -46,7 +46,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 QUANT/
@@ -64,7 +64,7 @@ QUANT/
 
 ---
 
-## 🎨 UI
+##  UI
 
 - **Color scheme**: Blue, Red, Black, White
 - **Tabs**: Dashboard, Portfolio, Trade, SIP (India), Risk, Payments
@@ -72,12 +72,12 @@ QUANT/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a **simulated** trading platform. No real orders or payments are executed. For live trading, integrate broker APIs (e.g. Zerodha, Upstox, Alpaca). Not financial advice.
 
 ---
 
-## 📄 License
+## License
 
 MIT
