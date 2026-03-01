@@ -1,0 +1,26 @@
+# Secrets - NEVER commit
+.streamlit/secrets.toml
+
+# Model cache - regenerated on startup
+models/
+
+# Data cache - regenerated on startup
+data/*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
